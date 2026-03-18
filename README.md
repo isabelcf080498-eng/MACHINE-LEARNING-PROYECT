@@ -78,3 +78,5 @@ Uso de valores SHAP para explicar predicciones de forma individualizada para cad
 **Despliegue**
 
 Integración del modelo como Sistema de Apoyo a la Decisión Clínica (CDSS) en entornos médicos.
+
++ ENLACE A VIDEOPRESENTACIÓN: https://drive.google.com/file/d/1H5MDEPGc270FwTEMorTkVsPyjw7aRgQq/view?usp=drive_link
